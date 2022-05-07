@@ -5,8 +5,8 @@ description: "Sound Body, Emotions, Lightly"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /joy
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: 'G-FJRY7X0895'
+disqus: 'blog-joy'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
