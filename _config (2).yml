@@ -18,12 +18,12 @@ authors:
     display_name: Joy
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: joyalways202@gmail.com
-    web: https://www.wowthemes.net
+    web: https://talentwisdom.github.io/joy/
     description: "Sound mind, Sound body. Live lightly"
   
 # Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -38,7 +38,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
     
 # Other
